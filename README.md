@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David</h1>
-<h3 align="center">An experienced data engineer from Georgia</h3>
+<h3 align="center">An experienced data engineer from Kazakhstan</h3>
 
-- 🔭 I’m currently working in **MTS Group**
+- 🔭 I’m currently working in **Ozon.Fintech**
 
 - 🌱 I’m currently learning **Airflow and Spark**
 
